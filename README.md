@@ -7,3 +7,4 @@ This is a sort of blog / work in progress repository for interesting projects th
 - [02-Guitar chords exploration using Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/accords%20de%20guitare.ipynb)
 - [03-Death probabilities inspired by the classic xkcd blog post](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Death probabilities.ipynb)
 - [04-Dating pool calculations based on xkcd 314](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/xkcd%20-%20Dating%20Pools.ipynb)
+- [05-Investigations on musical frequencies](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Musical%20frequencies.ipynb)
