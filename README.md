@@ -11,3 +11,4 @@ This is a sort of blog / work in progress repository for interesting projects th
 - [06-Books 2013](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Books%202013.ipynb)
 - [07-WiiBoard data analysis](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/WiiBoard%20data%20analysis.ipynb)
 - [08-Having fun with Kanjidic2 & JMDict](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Kanjidic2%2520%26%2520JMDict.ipynb)
+- [09-Sudoku solver](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Sudoku%20solver.ipynb)
