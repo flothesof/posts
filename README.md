@@ -14,3 +14,4 @@ This is a sort of blog / work in progress repository for interesting projects th
 - [09-Sudoku solver](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Sudoku%20solver.ipynb)
 - [10-Spell checker](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Spelling%20corrector.ipynb)
 - [11-Vélib rental prices](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/V%C3%A9lib%20pricing.ipynb)
+- [12-Guitar string frequency analysis](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Guitar%2520sound%2520frequency%2520analysis.ipynb)
