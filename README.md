@@ -17,3 +17,4 @@ This is a sort of blog / work in progress repository for interesting projects th
 - [12-Guitar string frequency analysis](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Guitar%2520sound%2520frequency%2520analysis.ipynb)
 - [13-Extracting chords from a MusicXML file](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Extracting%2520information%2520from%2520a%2520MusicXML%2520file.ipynb)
 - [14-A synthetic guitar sound generator](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/A%2520synthetic%2520guitar%2520sound.ipynb)
+- [15-Extracting the melody from a MusicXML file](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Extracting%2520the%2520notes%2520from%2520the%2520melody%2520of%2520MusicXML%2520file.ipynb)
