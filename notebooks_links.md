@@ -12,6 +12,7 @@
 [20140206_GoogleFlights.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140206_GoogleFlights.ipynb)
 [20140220_SinesAndRectangles.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140220_SinesAndRectangles.ipynb)
 [20140222_DepartmentTrajectories.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140222_DepartmentTrajectories.ipynb)
+[20140303_KarplusStrongAlgorithm.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140303_KarplusStrongAlgorithm.ipynb)
 [A synthetic guitar sound.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/A%20synthetic%20guitar%20sound.ipynb)
 [accords de guitare.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/accords%20de%20guitare.ipynb)
 [Ameli - post et get.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Ameli%20-%20post%20et%20get.ipynb)
