@@ -1,6 +1,22 @@
 # Links to all the notebooks in this folder to be statically viewed on nbviewer
 
+<<<<<<< HEAD
 [Sudoku solver.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Sudoku%20solver.ipynb)
+=======
+[12 tables.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/12%20tables.ipynb)
+[20131030  Jason Martinez A Response to “Falling with Helium”.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20131030%20%20Jason%20Martinez%20A%20Response%20to%20%93Falling%20with%20Helium%94.ipynb)
+[20131104 Japan life tables.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20131104%20Japan%20life%20tables.ipynb)
+[20131211_KevinHomework.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20131211_KevinHomework.ipynb)
+[20131227_GenerateRepositoryReadme.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20131227_GenerateRepositoryReadme.ipynb)
+[20131227_KevinTestNumpy.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20131227_KevinTestNumpy.ipynb)
+[20140120_SandAvalanches.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140120_SandAvalanches.ipynb)
+[20140124_AmeliOrthodontiste.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140124_AmeliOrthodontiste.ipynb)
+[20140130_CylinderFlow.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140130_CylinderFlow.ipynb)
+[20140206_GoogleFlights.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140206_GoogleFlights.ipynb)
+[20140220_SinesAndRectangles.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140220_SinesAndRectangles.ipynb)
+[20140222_DepartmentTrajectories.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140222_DepartmentTrajectories.ipynb)
+[20140303_KarplusStrongAlgorithm.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140303_KarplusStrongAlgorithm.ipynb)
+>>>>>>> 8ba19eea321f225a7774d2a1c699bca378a6f903
 [A synthetic guitar sound.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/A%20synthetic%20guitar%20sound.ipynb)
 [Extracting information from a MusicXML file.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Extracting%20information%20from%20a%20MusicXML%20file.ipynb)
 [Comparaison gammes.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/Comparaison%20gammes.ipynb)
