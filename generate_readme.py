@@ -26,9 +26,17 @@ import urllib
 urllib.quote(files[1])
 
 # <codecell>
+header = """posts
+=====
 
-with open('notebooks_links.md', 'w') as f:
-    f.write("""# Links to all the notebooks in this folder to be statically viewed on nbviewer\n\n""")
-    for filename in files:
-        f.write("[%s](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/%s)\n" % (filename, urllib.quote(filename)))
+This is a sort of blog / work in progress repository for interesting projects that pop into my mind.
+
+![files/xkcd_departments.png](files/xkcd_departments.png)
+
+"""
+with open('README.md', 'w') as f:
+    f.write(header)
+    for index, filename in enumerate(files):
+        f.write("- [%i-%s](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/%s)\n" % (index + 1, 
+                                                        filename, urllib.quote(filename)))
 
