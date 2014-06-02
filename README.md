@@ -39,3 +39,4 @@ This is a sort of blog / work in progress repository for interesting projects th
 - [32-20140325_2048Game.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140325_2048Game.ipynb)
 - [33-20140417_Mandelbrot.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140417_Mandelbrot.ipynb)
 - [34-20140516_CircularGuitarChordDiagrams.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140516_CircularGuitarChordDiagrams.ipynb)
+- [35-20140602_AWaveReflectingOnABoundary.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140602_AWaveReflectingOnABoundary.ipynb)
