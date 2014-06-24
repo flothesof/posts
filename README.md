@@ -41,3 +41,4 @@ This is a sort of blog / work in progress repository for interesting projects th
 - [34-20140417_Mandelbrot.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140417_Mandelbrot.ipynb)
 - [35-20140516_CircularGuitarChordDiagrams.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140516_CircularGuitarChordDiagrams.ipynb)
 - [36-20140602_AWaveReflectingOnABoundary.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140602_AWaveReflectingOnABoundary.ipynb)
+- [37-20140617_ExploringFinnishWords.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140617_ExploringFinnishWords.ipynb)
