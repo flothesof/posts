@@ -44,3 +44,4 @@ This is a sort of blog / work in progress repository for interesting projects th
 - [37-20140617_ExploringFinnishWords.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140617_ExploringFinnishWords.ipynb)
 - [38-20140701_ClothesGeneration.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140701_ClothesGeneration.ipynb)
 - [39-20140724_MandelbrotColours.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140724_MandelbrotColours.ipynb)
+- [40-20140726_PokerSimulation.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140726_PokerSimulation.ipynb)
