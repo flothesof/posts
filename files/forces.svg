@@ -10,11 +10,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1045.2812"
-   height="420.70761"
+   width="600"
+   height="241.47292"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="forces.svg">
   <defs
      id="defs4">
@@ -90,9 +90,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87222396"
-     inkscape:cx="120.7281"
-     inkscape:cy="422.28167"
+     inkscape:zoom="1.1335291"
+     inkscape:cx="252.79447"
+     inkscape:cy="99.743976"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -104,7 +104,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     units="px" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -121,24 +122,24 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-34.9375,-8.4173797)">
+     transform="translate(-59.375,-18.245837)">
     <rect
-       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:2.33871937;stroke-opacity:1"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.3424437;stroke-opacity:1"
        id="rect2985"
-       width="272.67899"
-       height="172.69669"
-       x="193.63213"
-       y="76.5746" />
+       width="156.5199"
+       height="99.129303"
+       x="150.45229"
+       y="57.368656" />
     <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:2.33871937"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:1.3424437"
        id="rect2987"
-       width="338.12195"
-       height="176.33241"
-       x="36.112583"
-       y="251.61028" />
+       width="194.0847"
+       height="101.21624"
+       x="60.034828"
+       y="157.84059" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.69481921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
-       d="m 330.06228,169.92064 0,51.9118"
+       style="fill:none;stroke:#000000;stroke-width:1.5468483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 228.7643,110.95005 0,29.7978"
        id="path3769"
        inkscape:connector-curvature="0" />
     <path
@@ -150,21 +151,21 @@
        sodipodi:rx="3.204843"
        sodipodi:ry="3.204843"
        d="m 227.72708,302.12265 c 0,1.76999 -1.43486,3.20484 -3.20485,3.20484 -1.76998,0 -3.20484,-1.43485 -3.20484,-3.20484 0,-1.76999 1.43486,-3.20484 3.20484,-3.20484 1.76999,0 3.20485,1.43485 3.20485,3.20484 z"
-       transform="matrix(0.85252143,0,0,0.85252143,138.56162,-94.643086)" />
+       transform="matrix(0.48935435,0,0,0.48935435,118.84131,-40.911706)" />
     <text
        xml:space="preserve"
-       style="font-size:30.09703064px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="99.757271"
-       y="132.62614"
+       style="font-size:17.27594566px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="96.567276"
+       y="89.542725"
        id="text3813"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3815"
-         x="99.757271"
-         y="132.62614"
+         x="96.567276"
+         y="89.542725"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond">center of gravity</tspan></text>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,525.99032,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,341.22856,91.796477)"
        id="g3817">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -183,7 +184,7 @@
     </g>
     <g
        id="g3825"
-       transform="matrix(-0.61878833,0,0,0.33140755,426.57227,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,284.16183,91.796477)">
       <g
          id="g3827"
          transform="translate(-0.54962603,1.9236911)">
@@ -200,7 +201,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,387.66957,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,261.83135,91.796477)"
        id="g3833">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -219,7 +220,7 @@
     </g>
     <g
        id="g3841"
-       transform="matrix(-0.61878833,0,0,0.33140755,517.34527,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,336.26626,91.796477)">
       <g
          id="g3843"
          transform="translate(-0.54962603,1.9236911)">
@@ -236,7 +237,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,461.15246,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,304.01115,91.796477)"
        id="g3849">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -255,7 +256,7 @@
     </g>
     <g
        id="g3857"
-       transform="matrix(-0.61878833,0,0,0.33140755,361.73441,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,246.94436,91.796477)">
       <g
          id="g3859"
          transform="translate(-0.54962603,1.9236911)">
@@ -272,7 +273,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,482.76508,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,316.41695,91.796477)"
        id="g3865">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -291,7 +292,7 @@
     </g>
     <g
        id="g3873"
-       transform="matrix(-0.61878833,0,0,0.33140755,439.53985,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,291.60525,91.796477)">
       <g
          id="g3875"
          transform="translate(-0.54962603,1.9236911)">
@@ -308,7 +309,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,409.28219,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,274.23713,91.796477)"
        id="g3881">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -327,7 +328,7 @@
     </g>
     <g
        id="g3889"
-       transform="matrix(-0.61878833,0,0,0.33140755,530.31283,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,343.70979,91.796477)">
       <g
          id="g3891"
          transform="translate(-0.54962603,1.9236911)">
@@ -344,7 +345,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,422.24975,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,281.68063,91.796477)"
        id="g3897">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -363,7 +364,7 @@
     </g>
     <g
        id="g3905"
-       transform="matrix(-0.61878833,0,0,0.33140755,374.70201,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,254.38784,91.796477)">
       <g
          id="g3907"
          transform="translate(-0.54962603,1.9236911)">
@@ -380,7 +381,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,513.02275,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,333.7851,91.796477)"
        id="g3913">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -399,7 +400,7 @@
     </g>
     <g
        id="g3921"
-       transform="matrix(-0.61878833,0,0,0.33140755,469.79751,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,308.97344,91.796477)">
       <g
          id="g3923"
          transform="translate(-0.54962603,1.9236911)">
@@ -416,7 +417,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,357.4119,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,244.46318,91.796477)"
        id="g3929">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -435,7 +436,7 @@
     </g>
     <g
        id="g3937"
-       transform="matrix(-0.61878833,0,0,0.33140755,491.41014,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,321.37927,91.796477)">
       <g
          id="g3939"
          transform="translate(-0.54962603,1.9236911)">
@@ -452,7 +453,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,452.50741,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,299.04882,91.796477)"
        id="g3945">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -471,7 +472,7 @@
     </g>
     <g
        id="g3953"
-       transform="matrix(-0.61878833,0,0,0.33140755,404.95965,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,271.75601,91.796477)">
       <g
          id="g3955"
          transform="translate(-0.54962603,1.9236911)">
@@ -489,7 +490,7 @@
     </g>
     <g
        id="g3969"
-       transform="matrix(-0.61878833,0,0,0.33140755,417.92722,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,279.19952,91.796477)">
       <g
          id="g3971"
          transform="translate(-0.54962603,1.9236911)">
@@ -506,7 +507,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,379.02451,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,256.86904,91.796477)"
        id="g3977">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -525,7 +526,7 @@
     </g>
     <g
        id="g3985"
-       transform="matrix(-0.61878833,0,0,0.33140755,504.3777,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,328.82279,91.796477)">
       <g
          id="g3987"
          transform="translate(-0.54962603,1.9236911)">
@@ -542,7 +543,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,465.475,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,306.49229,91.796477)"
        id="g3993">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -561,7 +562,7 @@
     </g>
     <g
        id="g4001"
-       transform="matrix(-0.61878833,0,0,0.33140755,366.05695,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,249.42552,91.796477)">
       <g
          id="g4003"
          transform="translate(-0.54962603,1.9236911)">
@@ -578,7 +579,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,487.08759,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,318.89808,91.796477)"
        id="g4009">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -597,7 +598,7 @@
     </g>
     <g
        id="g4017"
-       transform="matrix(-0.61878833,0,0,0.33140755,448.1849,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,296.56761,91.796477)">
       <g
          id="g4019"
          transform="translate(-0.54962603,1.9236911)">
@@ -614,7 +615,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,396.3146,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,266.79366,91.796477)"
        id="g4025">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -632,7 +633,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,430.89479,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,286.64294,91.796477)"
        id="g4041">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -651,7 +652,7 @@
     </g>
     <g
        id="g4049"
-       transform="matrix(-0.61878833,0,0,0.33140755,383.34703,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,259.35017,91.796477)">
       <g
          id="g4051"
          transform="translate(-0.54962603,1.9236911)">
@@ -668,7 +669,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,508.70022,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,331.30393,91.796477)"
        id="g4057">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -687,7 +688,7 @@
     </g>
     <g
        id="g4065"
-       transform="matrix(-0.61878833,0,0,0.33140755,474.12003,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,311.45461,91.796477)">
       <g
          id="g4067"
          transform="translate(-0.54962603,1.9236911)">
@@ -704,7 +705,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,353.08938,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,241.98199,91.796477)"
        id="g4073">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -723,7 +724,7 @@
     </g>
     <g
        id="g4081"
-       transform="matrix(-0.61878833,0,0,0.33140755,495.73264,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,323.86045,91.796477)">
       <g
          id="g4083"
          transform="translate(-0.54962603,1.9236911)">
@@ -740,7 +741,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,443.86238,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,294.08648,91.796477)"
        id="g4089">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -759,7 +760,7 @@
     </g>
     <g
        id="g4097"
-       transform="matrix(-0.61878833,0,0,0.33140755,400.63714,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,269.27484,91.796477)">
       <g
          id="g4099"
          transform="translate(-0.54962603,1.9236911)">
@@ -777,7 +778,7 @@
     </g>
     <g
        id="g4113"
-       transform="matrix(-0.61878833,0,0,0.33140755,435.21733,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,289.12416,91.796477)">
       <g
          id="g4115"
          transform="translate(-0.54962603,1.9236911)">
@@ -794,7 +795,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,391.99209,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,264.31254,91.796477)"
        id="g4121">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -813,7 +814,7 @@
     </g>
     <g
        id="g4129"
-       transform="matrix(-0.61878833,0,0,0.33140755,521.66778,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,338.74736,91.796477)">
       <g
          id="g4131"
          transform="translate(-0.54962603,1.9236911)">
@@ -830,7 +831,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,478.44256,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,313.93584,91.796477)"
        id="g4137">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -849,7 +850,7 @@
     </g>
     <g
        id="g4145"
-       transform="matrix(-0.61878833,0,0,0.33140755,370.37946,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,251.9066,91.796477)">
       <g
          id="g4147"
          transform="translate(-0.54962603,1.9236911)">
@@ -866,7 +867,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,500.05519,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,326.34156,91.796477)"
        id="g4153">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -885,7 +886,7 @@
     </g>
     <g
        id="g4161"
-       transform="matrix(-0.61878833,0,0,0.33140755,456.82995,136.55253)">
+       transform="matrix(-0.35518955,0,0,0.1902307,301.52994,91.796477)">
       <g
          id="g4163"
          transform="translate(-0.54962603,1.9236911)">
@@ -902,7 +903,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.61878833,0,0,0.33140755,413.6047,136.55253)"
+       transform="matrix(-0.35518955,0,0,0.1902307,276.71832,91.796477)"
        id="g4169">
       <g
          transform="translate(-0.54962603,1.9236911)"
@@ -922,53 +923,53 @@
     <text
        sodipodi:linespacing="125%"
        id="text5635"
-       y="285.7084"
-       x="153.15112"
-       style="font-size:30.09703064px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       y="177.41316"
+       x="127.21582"
+       style="font-size:17.27594566px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
-         y="285.7084"
-         x="153.15112"
+         y="177.41316"
+         x="127.21582"
          id="tspan5637"
          sodipodi:role="line">contact pressure</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5639"
-       y="191.75554"
-       x="340.77368"
-       style="font-size:30.09703064px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       y="123.48349"
+       x="234.9127"
+       style="font-size:17.27594566px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
-         y="191.75554"
-         x="340.77368"
+         y="123.48349"
+         x="234.9127"
          id="tspan5641"
          sodipodi:role="line">gravity force</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.71178275;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
-       d="m 292.48074,131.33741 c 0,0 34.15125,5.55758 36.2857,25.93538"
+       style="fill:none;stroke:#000000;stroke-width:0.40856901;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 207.19215,88.802953 c 0,0 19.60306,3.190098 20.82837,14.887127"
        id="path7033"
        inkscape:connector-curvature="0" />
     <rect
-       y="76.5746"
-       x="806.37665"
-       height="172.69669"
-       width="272.67899"
+       y="57.368656"
+       x="502.17261"
+       height="99.129303"
+       width="156.5199"
        id="rect7415"
-       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:2.33871937;stroke-opacity:1" />
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.3424437;stroke-opacity:1" />
     <rect
-       y="251.61028"
-       x="648.85706"
-       height="176.33241"
-       width="338.12195"
+       y="157.84059"
+       x="411.75513"
+       height="101.21624"
+       width="194.0847"
        id="rect7417"
-       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:2.33871937" />
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:1.3424437" />
     <path
        inkscape:connector-curvature="0"
        id="path7419"
-       d="m 942.80675,169.92064 0,51.9118"
-       style="fill:none;stroke:#000000;stroke-width:2.69481921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
+       d="m 580.4846,110.95005 0,29.7978"
+       style="fill:none;stroke:#000000;stroke-width:1.5468483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
     <path
-       transform="matrix(0.85252143,0,0,0.85252143,751.3061,-94.643086)"
+       transform="matrix(0.48935435,0,0,0.48935435,470.56173,-40.911706)"
        d="m 227.72708,302.12265 c 0,1.76999 -1.43486,3.20484 -3.20485,3.20484 -1.76998,0 -3.20484,-1.43485 -3.20484,-3.20484 0,-1.76999 1.43486,-3.20484 3.20484,-3.20484 1.76999,0 3.20485,1.43485 3.20485,3.20484 z"
        sodipodi:ry="3.204843"
        sodipodi:rx="3.204843"
@@ -979,7 +980,7 @@
        sodipodi:type="arc" />
     <g
        id="g7423"
-       transform="matrix(-1.5869348,0,0,1.0657622,1390.5862,-120.46497)">
+       transform="matrix(-0.91091354,0,0,0.61175632,837.51374,-55.733685)">
       <g
          id="g7425"
          transform="translate(-0.54962603,1.9236911)">
@@ -1004,53 +1005,53 @@
        sodipodi:rx="3.204843"
        sodipodi:ry="3.204843"
        d="m 227.72708,302.12265 c 0,1.76999 -1.43486,3.20484 -3.20485,3.20484 -1.76998,0 -3.20484,-1.43485 -3.20484,-3.20484 0,-1.76999 1.43486,-3.20484 3.20484,-3.20484 1.76999,0 3.20485,1.43485 3.20485,3.20484 z"
-       transform="matrix(0.85252143,0,0,0.85252143,795.58086,-7.5140579)" />
+       transform="matrix(0.48935435,0,0,0.48935435,495.97573,9.1010742)" />
     <text
        xml:space="preserve"
-       style="font-size:30.09703064px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="775.47937"
-       y="193.49783"
+       style="font-size:17.27594566px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="484.43729"
+       y="124.48355"
        id="text7433"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7435"
-         x="775.47937"
-         y="193.49783"
+         x="484.43729"
+         y="124.48355"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond">gravity force</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7437"
-       y="285.84012"
-       x="886.98706"
-       style="font-size:30.09703064px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       y="177.48882"
+       x="548.44373"
+       style="font-size:17.27594566px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
-         y="285.84012"
-         x="886.98706"
+         y="177.48882"
+         x="548.44373"
          id="tspan7439"
          sodipodi:role="line">pressure force</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30.09703064px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="34.585583"
-       y="45.389244"
+       style="font-size:17.27594566px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="59.158199"
+       y="39.467991"
        id="text7441"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7443"
-         x="34.585583"
-         y="45.389244"
-         style="font-size:56.12926483px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond">Original problem</tspan></text>
+         x="59.158199"
+         y="39.467991"
+         style="font-size:32.21865845px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond">Original problem</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7445"
-       y="45.389244"
-       x="606.0625"
-       style="font-size:30.09703064px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       y="39.467991"
+       x="387.19073"
+       style="font-size:17.27594566px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        xml:space="preserve"><tspan
-         style="font-size:56.12926483px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
-         y="45.389244"
-         x="606.0625"
+         style="font-size:32.21865845px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:Garamond"
+         y="39.467991"
+         x="387.19073"
          id="tspan7447"
          sodipodi:role="line">Simplified problem</tspan></text>
   </g>
