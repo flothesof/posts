@@ -46,3 +46,4 @@ This is a sort of blog / work in progress repository for interesting projects th
 - [39-20140724_MandelbrotColours.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140724_MandelbrotColours.ipynb)
 - [40-20140726_PokerSimulation.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140726_PokerSimulation.ipynb)
 - [41-20140808_BricksAndArches.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140808_BricksAndArches.ipynb)
+- [42-20140909_GameBoySounds.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140909_GameBoySounds.ipynb)
