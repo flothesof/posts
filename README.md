@@ -51,3 +51,5 @@ This is a sort of blog / work in progress repository for interesting projects th
 - [44-20140917_SevenModesOfTetris.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20140917_SevenModesOfTetris.ipynb)
 - [45-20141020_JapaneseLanguageGraphs.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20141020_JapaneseLanguageGraphs.ipynb)
 - [46-20141021_FloydRoseGuitar.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20141021_FloydRoseGuitar.ipynb)
+- [47-20141027_ParisTopology.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20141027_ParisTopology.ipynb)
+- [48-20141106_ParticleSystem.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20141106_ParticleSystem.ipynb)
