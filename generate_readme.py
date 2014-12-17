@@ -1,11 +1,15 @@
 # -*- coding: utf-8 -*-
 
 import os
-import urllib
+import sys
+if sys.version_info >= (3, 0):
+    from urllib.parse import quote
+else:
+    from urllib import quote
 
 def filename2url(filename):
     return "http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/{0}".format(
-                                                                        urllib.quote(filename))
+                                                                        quote(filename))
 if __name__ == "__main__":
     files = os.listdir(os.getcwd())
     files = filter(lambda s: s.endswith('.ipynb'), files)
