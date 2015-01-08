@@ -63,3 +63,6 @@ This is a sort of blog / work in progress repository for interesting projects th
 - [56-20141207_IntroductionToCashNCarry.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20141207_IntroductionToCashNCarry.ipynb)
 - [57-20141207_LuhnAlgorithm.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20141207_LuhnAlgorithm.ipynb)
 - [58-20141217_PhaseColoredFFT.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20141217_PhaseColoredFFT.ipynb)
+- [59-20141220_IntroMachineLearning.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20141220_IntroMachineLearning.ipynb)
+- [60-20141227_EllipticalCurveCrypto.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20141227_EllipticalCurveCrypto.ipynb)
+- [61-20150107_SmileRecognition.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20150107_SmileRecognition.ipynb)
