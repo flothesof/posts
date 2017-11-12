@@ -47,18 +47,20 @@ def classical_domaincol(w, s):
     
     
 def plot_domain(color_func, f,   re=[-1,1], im= [-1,1], Title='',
-                s=0.9, N=200, daxis=None):
+                s=0.9, N=200, daxis=None, ax=None):
     w = eval_func_on_grid(f, re, im, N)
     domc = color_func(w, s)
-    plt.xlabel("$\Re(z)$")
-    plt.ylabel("$\Im(z)$")
-    plt.title(Title)
+    if ax is None:
+        ax = plt.gca()
+    ax.set_xlabel("$\Re(z)$")
+    ax.set_ylabel("$\Im(z)$")
+    ax.set_title(Title)
     if(daxis):
-         plt.imshow(domc, origin="lower", extent=[re[0], re[1], im[0], im[1]])
+         ax.imshow(domc, origin="lower", extent=[re[0], re[1], im[0], im[1]])
        
     else:
-        plt.imshow(domc, origin="lower")
-        plt.axis('off')
+        ax.imshow(domc, origin="lower")
+        ax.axis('off')
         
 def modulus_domaincol(w, s): 
     """Domain coloring with modulus track.
