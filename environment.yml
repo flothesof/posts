@@ -1,0 +1,4 @@
+name: posts-env
+dependencies:
+- python=3
+- anaconda
