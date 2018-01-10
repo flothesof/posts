@@ -1,9 +1,13 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/flothesof/posts/master)
+
 posts
 =====
 
-This is a sort of blog / work in progress repository for interesting projects that pop into my mind.
+This is a sort of blog / work in progress repository for interesting projects that pop into my mind. Some of the posts get published on my blog: 
 
+- <http://flothesof.github.io/>
+- blog repo (integrating posts): <>
+
+Example of an idea for a project adapted as an XKCD comic:
 ![files/xkcd_departments.png](files/xkcd_departments.png)
 
-- [1-20130716_12Tables.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20130716_12Tables.ipynb)
-- [2-20130716_MusicalFrequencies.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/flothesof/posts/master/20130716_MusicalFrequencies.ipynb)
