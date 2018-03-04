@@ -40,3 +40,6 @@ nosetests.xml
 
 # Mac files
 .DS_Store
+
+# notebook generated files
+files/medium.out
