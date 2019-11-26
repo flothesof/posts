@@ -43,3 +43,6 @@ nosetests.xml
 
 # notebook generated files
 files/medium.out
+
+# secret token
+.waqitoken
