@@ -1,4 +1,8 @@
 name: posts-env
 dependencies:
 - python=3
-- anaconda
+- numpy
+- scipy
+- matplotlib
+- holoviews
+- ipywidgets
