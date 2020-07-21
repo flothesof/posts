@@ -46,3 +46,7 @@ files/medium.out
 
 # secret token
 .waqitoken
+
+# VSCode stuff
+.virtual_documents
+.vscode
