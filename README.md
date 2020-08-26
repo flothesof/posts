@@ -1,3 +1,4 @@
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/flothesof/posts/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flothesof/posts/master)
 
 posts
