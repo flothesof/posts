@@ -4,7 +4,7 @@
 posts
 =====
 
-This is a sort of blog / work in progress repository for interesting projects that pop into my mind. Some of the posts get published on my blog: 
+This is a sort of blog / work in progress repository for interesting projects that pop into my mind. The "good" notebooks usually get published on my blog: 
 
 - blog: <http://flothesof.github.io/>
 - blog repo (integrating the .ipynb posts): <https://github.com/flothesof/PelicanBlog>
