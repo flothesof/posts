@@ -50,3 +50,7 @@ files/medium.out
 # VSCode stuff
 .virtual_documents
 .vscode
+.entsoetoken
+euler_angle2.mp4
+lattice.vtk
+variance_anim.mp4
