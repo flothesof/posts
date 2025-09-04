@@ -54,3 +54,5 @@ files/medium.out
 euler_angle2.mp4
 lattice.vtk
 variance_anim.mp4
+.jupyter/desktop-settings.json
+.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
